@@ -8,6 +8,8 @@
     <SpaProxyServerUrl>https://localhost:44480</SpaProxyServerUrl>
     <SpaProxyLaunchCommand>npm start</SpaProxyLaunchCommand>
     <ImplicitUsings>enable</ImplicitUsings>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <AssemblyName>loja_depr</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
